@@ -9,4 +9,5 @@ public class BuySellRate {
     private String effectiveDate;
     private String ask;
     private String bid;
+    private String mid;
 }

@@ -42,6 +42,11 @@
             <version>2.8.5</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>net.gpedro.integrations.slack</groupId>
+            <artifactId>slack-webhook</artifactId>
+            <version>1.4.0</version>
+        </dependency>
     </dependencies>
 
 </project>
